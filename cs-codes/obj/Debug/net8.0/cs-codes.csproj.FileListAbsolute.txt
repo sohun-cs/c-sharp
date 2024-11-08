@@ -1,0 +1,14 @@
+D:\Development\Programming\C#\c-sharp\cs-codes\cs-codes\bin\Debug\net8.0\cs-codes.exe
+D:\Development\Programming\C#\c-sharp\cs-codes\cs-codes\bin\Debug\net8.0\cs-codes.deps.json
+D:\Development\Programming\C#\c-sharp\cs-codes\cs-codes\bin\Debug\net8.0\cs-codes.runtimeconfig.json
+D:\Development\Programming\C#\c-sharp\cs-codes\cs-codes\bin\Debug\net8.0\cs-codes.dll
+D:\Development\Programming\C#\c-sharp\cs-codes\cs-codes\bin\Debug\net8.0\cs-codes.pdb
+D:\Development\Programming\C#\c-sharp\cs-codes\cs-codes\obj\Debug\net8.0\cs-codes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Programming\C#\c-sharp\cs-codes\cs-codes\obj\Debug\net8.0\cs-codes.AssemblyInfoInputs.cache
+D:\Development\Programming\C#\c-sharp\cs-codes\cs-codes\obj\Debug\net8.0\cs-codes.AssemblyInfo.cs
+D:\Development\Programming\C#\c-sharp\cs-codes\cs-codes\obj\Debug\net8.0\cs-codes.csproj.CoreCompileInputs.cache
+D:\Development\Programming\C#\c-sharp\cs-codes\cs-codes\obj\Debug\net8.0\cs-codes.dll
+D:\Development\Programming\C#\c-sharp\cs-codes\cs-codes\obj\Debug\net8.0\refint\cs-codes.dll
+D:\Development\Programming\C#\c-sharp\cs-codes\cs-codes\obj\Debug\net8.0\cs-codes.pdb
+D:\Development\Programming\C#\c-sharp\cs-codes\cs-codes\obj\Debug\net8.0\cs-codes.genruntimeconfig.cache
+D:\Development\Programming\C#\c-sharp\cs-codes\cs-codes\obj\Debug\net8.0\ref\cs-codes.dll
