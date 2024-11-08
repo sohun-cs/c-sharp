@@ -12,3 +12,4 @@ D:\Development\Programming\C#\c-sharp\cs-codes\cs-codes\obj\Debug\net8.0\refint\
 D:\Development\Programming\C#\c-sharp\cs-codes\cs-codes\obj\Debug\net8.0\cs-codes.pdb
 D:\Development\Programming\C#\c-sharp\cs-codes\cs-codes\obj\Debug\net8.0\cs-codes.genruntimeconfig.cache
 D:\Development\Programming\C#\c-sharp\cs-codes\cs-codes\obj\Debug\net8.0\ref\cs-codes.dll
+D:\Development\Programming\C#\c-sharp\cs-codes\cs-codes\obj\Debug\net8.0\cs-codes.sourcelink.json
